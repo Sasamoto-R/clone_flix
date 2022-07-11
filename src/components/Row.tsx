@@ -1,4 +1,4 @@
-import axios from './axios.js';
+import axios from '../axios.js';
 import React, {useState, useEffect } from 'react';
 
 const base_url = "https://image.tmdb.org/t/p/original";

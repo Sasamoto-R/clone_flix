@@ -1,6 +1,7 @@
 import React, {useState, useEffect } from 'react';
-import axios from './axios.js';
-import { requests } from "./request";
+import axios from '../axios.js';
+import { requests } from "../request";
+import "./Banner.scss";
 
 type movieProps = {
   title?: string;
