@@ -44,7 +44,9 @@
   "devDependencies": {
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
+    "movie-trailer": "^2.1.0",
     "prettier": "^2.7.1",
+    "react-youtube": "^9.0.3",
     "sass": "^1.53.0"
   }
 }
